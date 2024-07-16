@@ -1,5 +1,6 @@
 " requires vim-plug:
 " curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+" Run :PlugInstall to install plugins
 
 " install plugins
 call plug#begin()
