@@ -32,6 +32,8 @@ set copyindent
 
 " Use ' as a shortcut for the black hole register
 noremap ' "_
+" Use , as a shortcut for the clipboard register
+noremap , "+
 
 " use tabs for Makefiles
 autocmd FileType make set noexpandtab softtabstop=0
